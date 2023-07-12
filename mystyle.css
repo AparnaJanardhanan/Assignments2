@@ -1,0 +1,30 @@
+#bg-img {
+    background: url('./Assets/image2.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+#about {
+    margin-top: -200px;
+}
+
+#about .fa {
+    color: antiquewhite;
+}
+
+hr{
+    border-width: 3px;
+}
+
+#contact .img-fluid {
+    max-width: 50%;
+    height: auto;
+}
